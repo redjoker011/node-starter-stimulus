@@ -5,6 +5,7 @@ A preconfigured blank slate for exploring [Stimulus](https://github.com/hotwired
 ---
 This repo is a clone of stimulus-starter from hotwired
 
+```
 $ git clone git@github.com:redjoker011/node-starter-stimulus.git
 $ cd node-stimulus-starter
 $ yarn install
