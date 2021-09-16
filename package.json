@@ -1,0 +1,8 @@
+{
+  "name": "node-starter-stimulus",
+  "version": "1.0.0",
+  "description": "Node application starter with stimulus js",
+  "main": "index.js",
+  "author": "Peter John Alvarado",
+  "license": "MIT"
+}
